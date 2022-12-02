@@ -2,12 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation? My motivation was to make sure that I am prepared as possible for my Boot Camp coursework for coding.
-- Why did you build this project? To make an easily accessible source of notes to help me problem solve if I forget how to do something or forget what a certain word means.
-- What problem does it solve? It makes it so I have a reliable source for information.
-- What did you learn? I was able to retain a decent amount of knowledge for how to build a basic website.
+My motivation for making this study guide was to make sure that I am prepared as possible for my Boot Camp coursework for coding. I built this website to make an easily accessible source of notes to help me problem solve if I forget how to do something or forget what a certain word means. This website makes it so I have a reliable source for information. Through the building of this website I was able to retain a decent amount of knowledge for how basic website construction through only coding.
 
 ## Installation
 
